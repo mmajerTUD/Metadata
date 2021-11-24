@@ -1,0 +1,5 @@
+Fluid = CO2
+Pt_in = 73.773 bar
+Tt_in = 912.385 K
+P_out = 13.689 bar
+omega = 30 krpm

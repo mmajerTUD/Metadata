@@ -1,0 +1,5 @@
+Fluid = MM
+Pt_in = 40.000 bar
+Tt_in = 545.672 K
+P_out = 15.000 bar
+omega = 12 krpm
