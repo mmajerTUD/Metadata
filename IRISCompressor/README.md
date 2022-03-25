@@ -1,6 +1,6 @@
 # IRIS Compressor
 
-This folder contains the geometrical data of the centrifugal compressor stage described in the paper 
+This folder contains the full set of design maps and the geometrical data of the optimal centrifugal compressor stage described in the paper 
 "The Effect of Size and Working Fluid on the Multi-Objective Design of High-Speed Centrifugal Compressors". 
 
 ---
@@ -14,7 +14,14 @@ Alternatively, the ".igs" file can be opened in most of the CAD softwares.
 
 ---
 
-## Design Point Boundary Conditions
+## Constant Design Variables throughout the Maps
+* Impeller shape factor = 0.9
+* Diffuser radius ratio = 1.5
+* Number of blades (main + splitter) = 14
+
+---
+
+## Design Point Boundary Conditions for CFD
 * Fluid = R1233zd(E)
 * Pt_in = 47.789 kPa
 * Tt_in = 278.13 K
