@@ -1,0 +1,13 @@
+!======  ANSYS BladeGen Export  ========
+Axis of Rotation: Z
+Number of Blade Sets: 16
+Number of Blades Per Set: 1
+Blade Loft Direction: Streamwise
+Geometry Units: Unknown
+Coordinate System Orientation: Righthanded
+Surface Construction: General
+Blade 0 LE: EllipseEnd
+Blade 0 TE: EllipseEnd
+Hub Data File: rotor_D3_hub.curve
+Shroud Data File: rotor_D3_shroud.curve
+Profile Data File: rotor_D3_profile.curve

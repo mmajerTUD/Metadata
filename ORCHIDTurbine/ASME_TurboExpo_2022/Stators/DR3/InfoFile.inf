@@ -1,0 +1,13 @@
+!======  ANSYS BladeGen Export  ========
+Axis of Rotation: Z
+Number of Blade Sets: 12
+Number of Blades Per Set: 1
+Blade Loft Direction: Streamwise
+Geometry Units: MM
+Coordinate System Orientation: Lefthanded
+Surface Construction: General
+Blade 0 LE: EllipseEnd
+Blade 0 TE: EllipseEnd
+Hub Data File: Base_Line_Redesign_Ma191_coords_DR3_hub.curve
+Shroud Data File: Base_Line_Redesign_Ma191_coords_DR3_shroud.curve
+Profile Data File: Base_Line_Redesign_Ma191_coords_DR3_profile.curve
